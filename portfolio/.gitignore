@@ -1,0 +1,23 @@
+# Portfolio
+
+A professional personal portfolio website.
+
+## Overview
+This is a static portfolio website designed to present skills, projects, and contact information in a clean and professional manner.
+
+## Project Structure
+- `index.html` — main webpage
+- `styles.css` — site styling
+- `script.js` — behavior and interactions
+- `assets/` — images and media
+
+## Local Development
+```bash
+python -m http.server 8000
+```
+
+## Deployment
+Deploy as a static website on GitHub Pages, Netlify, or Vercel.
+
+## License
+MIT
